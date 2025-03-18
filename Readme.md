@@ -15,6 +15,7 @@ Datathon/
 │   │   └── interactive_map.ipynb    # Interactive choropleth map
 │   └── risk prediction/
 │       └── risk_prediction.ipynb    # ML model for risk prediction
+├── requirements.txt      # Project dependencies
 └── README.md
 ```
 
@@ -47,7 +48,7 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 3. Install dependencies:
 ```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn pycountry
+pip install -r requirements.txt
 ```
 
 ## Usage

@@ -1,12 +1,7 @@
 pandas
 numpy
-geopandas
-plotly
-folium
 matplotlib
 seaborn
+plotly
 scikit-learn
-openpyxl
 pycountry
-ipykernel
-nbformat
