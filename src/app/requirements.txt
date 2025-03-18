@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+plotly
+folium
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+pycountry
+ipykernel
+nbformat
