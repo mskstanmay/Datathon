@@ -3,7 +3,7 @@
 > This project, born from the intense collaborative energy of Datathon—a hackathon proudly hosted by the Data Science Club at VIT-AP University—embarks on a crucial mission: to delve deep into the intricate web of global human trafficking vulnerability data, ultimately forging a path toward meaningful insights and powerful predictions.
 
 ## Overview
-This project analyzes global human trafficking vulnerability data to identify risk factors, predict vulnerability scores, and create interactive visualizations. Our analysis focuses on understanding patterns in human trafficking across different countries and regions, utilizing machine learning for risk prediction.
+This project isn't just about numbers, it's a journey into the heart of global human trafficking vulnerability. We meticulously dissect this sensitive data, not only to pinpoint the subtle risk factors at play and forecast potential vulnerability hotspots, but also to craft compelling, interactive visualizations that bring these complex issues to life. Our core endeavor is to illuminate the intricate patterns of human trafficking across diverse nations and regions, all while harnessing the power of machine learning to anticipate and ultimately, help mitigate future risks.
 
 ## Project Structure
 ```
